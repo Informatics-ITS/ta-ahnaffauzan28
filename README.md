@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Mohammad Ahnaf Fauzan  
+**NRP**: 5025211170
+**Judul TA**: Analisis Sentimen pada Ulasan Aplikasi Pemerintah Kota Surabaya pada Google Play Store Menggunakan Metode Ekstraksi Vektor Kata dan Metode Ensemble  
+**Dosen Pembimbing**: Prof. Dr. Eng. Chastine Fatichah, S.Kom., M.Kom
+**Dosen Ko-pembimbing**: Ratih Nur Esti Anggraini, S.Kom, M.Sc., Ph.D. 
 
 ---
 
