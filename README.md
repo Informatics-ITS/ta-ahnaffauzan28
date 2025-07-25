@@ -11,7 +11,7 @@
 ## 📺 Demo Aplikasi  
 Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):  
 
-[![Demo Aplikasi](https://i.ytimg.com/vi/zIfRMTxRaIs/maxresdefault.jpg)]([https://youtu.be/8EHNPd41vcw])  
+[![Demo Aplikasi](https://img.youtube.com/vi/Jjz-o0ww4vQ/maxresdefault.jpg)](https://youtu.be/Jjz-o0ww4vQ)  
 *Klik gambar di atas untuk menonton demo*
 
 ---
