@@ -21,42 +21,32 @@ Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):
 ## 🛠 Panduan Instalasi & Menjalankan Software  
 
 ### Prasyarat  
-- Daftar dependensi (contoh):
-  - Python 3.10+
-  - Node.js v18+
-  - MySQL 8.0
-  - [Lainnya...]
+- Daftar dependensi :
+- pandas==1.5.3
+- numpy==1.24.0
+- matplotlib==3.6.3
+- seaborn==0.11.2
+- scikit-learn==1.1.3
+- nltk==3.9.1
+- torch==2.0.1
+- wordcloud==1.9.2
+- gensim==4.3.1
+- joblib==1.5.0
+- scipy==1.9.3
+- transformers
+- Sastrawi
+- deslib
+- google_play_scraper
 
 ### Langkah-langkah  
-1. **Clone Repository**  
-   ```bash
-   git clone https://github.com/Informatics-ITS/TA.git
-   ```
-2. **Instalasi Dependensi**
-   ```bash
-   cd [folder-proyek]
-   pip install -r requirements.txt  # Contoh untuk Python
-   npm install  # Contoh untuk Node.js
-   ```
-3. **Konfigurasi**
-- Salin/rename file .env.example menjadi .env
-- Isi variabel lingkungan sesuai kebutuhan (database, API key, dll.)
-4. **Jalankan Aplikasi**
-   ```bash
-   python main.py  # Contoh untuk Python
-   npm start      # Contoh untuk Node.js
-   ```
-5. Buka browser dan kunjungi: `http://localhost:3000` (sesuaikan dengan port proyek Anda)
-
----
-
-## 📚 Dokumentasi Tambahan
-
-- [![Dokumentasi API]](docs/api.md)
-- [![Diagram Arsitektur]](docs/architecture.png)
-- [![Struktur Basis Data]](docs/database_schema.sql)
-
----
+1. *Clone Repository*  
+   bash
+   git clone https://github.com/Informatics-ITS/ta-ahnaffauzan28
+   
+2. *Instalasi Dependensi*
+   bash
+   cd ta-ahnaffauzan28
+   
 
 ## ✅ Validasi
 
